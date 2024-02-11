@@ -1,0 +1,2 @@
+file:/C:/Users/marti/PycharmProjects/SaxonC12IterateTryCatchTest/input-samples/sample3.xml
+file:/C:/Users/marti/PycharmProjects/SaxonC12IterateTryCatchTest/input-samples/sample5.xml
